@@ -1,0 +1,12 @@
+name: analysis
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - jupyterlab-git
+  - matplotlib
+  - mplhep
+  - numpy
+  - pandas
+  - uproot
+  - uproot-methods
